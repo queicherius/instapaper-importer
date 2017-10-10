@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const minimist = require('minimist')
 const fs = require('fs')
 const fetch = require('node-fetch')
